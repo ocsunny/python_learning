@@ -1,5 +1,8 @@
 import os
 os.chdir('/Users/Lin/Documents/headfirstpython/ch3')
+#let's see if there is any changes documented in git
+import datetime
+print(datetime.datetime().now())
 
 man=[]
 other=[]
